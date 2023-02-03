@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "783090628228",
+    "firebase_url": "https://quoteskevinbuihannahly.firebaseio.com",
+    "project_id": "quoteskevinbuihannahly",
+    "storage_bucket": "quoteskevinbuihannahly.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783090628228:android:da6b77f853eede7a",
+        "android_client_info": {
+          "package_name": "cs.dawson.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783090628228-a3gml7ujvg7jb8qe37gm3emmgr72cc0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cs.dawson.myapplication",
+            "certificate_hash": "c2444e1a580b180e6ee526a0620b50ac6ee339eb"
+          }
+        },
+        {
+          "client_id": "783090628228-345pvqtrfsv9tht58hhgmdv479nrsiog.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2NsoA3eh8SadY1At2B-jAtCN2lF0osRA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783090628228-345pvqtrfsv9tht58hhgmdv479nrsiog.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/attrLbl"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_weight="35"
+            android:paddingLeft="20dp"
+            android:text="@string/attrTitle"
+            android:textColor="#000080"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/attrText"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_weight="65"
+            android:textColor="#31799b"
+            android:textStyle="bold"
+            android:textSize="17dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/dobLbl"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="35"
+            android:paddingLeft="20dp"
+            android:text="@string/dofTitle"
+            android:textColor="#000080"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/dobText"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_weight="65"
+            android:textColor="#31799b"
+            android:textStyle="bold"
+            android:textSize="17dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/quoteSLbl"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="35"
+            android:paddingLeft="20dp"
+            android:text="@string/quoteSTitle"
+            android:textColor="#000080"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/quoteSText"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_weight="65"
+            android:textColor="#31799b"
+            android:textStyle="bold"
+            android:textSize="17dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/quoteFLbl"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="35"
+            android:paddingLeft="20dp"
+            android:text="@string/quoteFTitle"
+            android:textColor="#000080"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/quoteFText"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_weight="65"
+            android:textColor="#31799b"
+            android:textStyle="bold"
+            android:textSize="17dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/urlLbl"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="35"
+            android:paddingLeft="20dp"
+            android:text="@string/urlTitle"
+            android:textColor="#000080"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/urlText"
+            android:layout_width="0dp"
+            android:layout_height="45dp"
+            android:layout_weight="65"
+            android:textColor="#31799b"
+            android:textStyle="bold"
+            android:textSize="17dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/dateLbl"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_marginTop="10dp"
+            android:layout_weight="35"
+            android:paddingLeft="20dp"
+            android:text="@string/dateTitle"
+            android:textColor="#000080"
+            android:textSize="17dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/dateText"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_weight="65"
+            android:textColor="#31799b"
+            android:textStyle="bold"
+            android:textSize="17dp"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/category"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        app:srcCompat="@drawable/common_google_signin_btn_icon_dark_focused" />
+
+</LinearLayout>

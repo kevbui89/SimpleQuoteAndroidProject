@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">QuotesKevinHannah</string>
+    <string name="failure">FAILURE</string>
+    <string name="ok" translatable="false">Ok</string>
+    <string name="no_database">No database was found.</string>
+    <string name="no_user">No user was found.</string>
+    <string name="database">Database was found.</string>
+    <string name="user">User was found.</string>
+    <string name="success">SUCCESS</string>
+    <string name="cateTitle">Categories</string>
+    <string name="quoteTitle">Quotes</string>
+    <string name="attrTitle">Attributed:</string>
+    <string name="dofTitle">Date of birth:</string>
+    <string name="quoteSTitle">Short quote:</string>
+    <string name="quoteFTitle">Full quote:</string>
+    <string name="urlTitle">Reference:</string>
+    <string name="dateTitle">Date:</string>
+    <string name="about">This application allows you to search quotes from a Firebase database and get funny quotes from cartoon TV shows, celebrities, politicians and inventors.</string>
+    <string name="coded">This application was coded by Hannah Ly and Kevin Bui</string>
+</resources>

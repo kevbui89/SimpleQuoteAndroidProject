@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuotesKevinHannah</string>
+    <string name="failure">ECHEC</string>
+    <string name="ok">Ok</string>
+    <string name="no_database">Aucune base de donnees existe.</string>
+    <string name="no_user">Aucun utilisateur existe.</string>
+    <string name="database">Base de donnees trouvee.</string>
+    <string name="user">Utilisateur trouve.</string>
+    <string name="success">SUCCES</string>
+    <string name="cateTitle">Categories</string>
+    <string name="quoteTitle">Citations</string>
+    <string name="attrTitle">Attribue:</string>
+    <string name="dofTitle">Date de naissance:</string>
+    <string name="quoteSTitle">Petite citation:</string>
+    <string name="quoteFTitle">Citation complete:</string>
+    <string name="urlTitle">Reference:</string>
+    <string name="dateTitle">Date:</string>
+    <string name="about">Cette application vous permet de chercher d\'une base de donnees Firebase et montrer des droles de citations de dessins-anime, celebrites, politiciens et inventeurs.</string>
+    <string name="coded">Programme ecrit par Hannah Ly et Kevin Bui</string>
+</resources>
